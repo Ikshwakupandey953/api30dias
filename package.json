@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "openode": "^2.1.6",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.5"
+  }
+}
